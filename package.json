@@ -1,6 +1,6 @@
 {
   "name": "neverending-scroll",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Eternal scroll on a container - just duplicates content as you scroll.",
   "main": "neverending-scroll.js",
   "scripts": {
